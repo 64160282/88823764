@@ -9,4 +9,4 @@ services:
          - ./public_html:/var/www/html
 # docker --version
 # docker compose up -d
-# docker ocmpose down
+# docker compose down
